@@ -1,1 +1,1 @@
-"# todo-app-with-node-and-typescript" 
+"# a simple todo app created with express and typescript" 
